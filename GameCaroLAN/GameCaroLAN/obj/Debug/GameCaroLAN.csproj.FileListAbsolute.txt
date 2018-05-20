@@ -1,0 +1,9 @@
+D:\GitHub\GameCaro\GameCaroLAN\GameCaroLAN\bin\Debug\GameCaroLAN.exe.config
+D:\GitHub\GameCaro\GameCaroLAN\GameCaroLAN\obj\Debug\GameCaroLAN.exe
+D:\GitHub\GameCaro\GameCaroLAN\GameCaroLAN\obj\Debug\GameCaroLAN.pdb
+D:\GitHub\GameCaro\GameCaroLAN\GameCaroLAN\bin\Debug\GameCaroLAN.exe
+D:\GitHub\GameCaro\GameCaroLAN\GameCaroLAN\bin\Debug\GameCaroLAN.pdb
+D:\GitHub\GameCaro\GameCaroLAN\GameCaroLAN\obj\Debug\GameCaroLAN.csprojResolveAssemblyReference.cache
+D:\GitHub\GameCaro\GameCaroLAN\GameCaroLAN\obj\Debug\GameCaroLAN.Form1.resources
+D:\GitHub\GameCaro\GameCaroLAN\GameCaroLAN\obj\Debug\GameCaroLAN.Properties.Resources.resources
+D:\GitHub\GameCaro\GameCaroLAN\GameCaroLAN\obj\Debug\GameCaroLAN.csproj.GenerateResource.Cache
